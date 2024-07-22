@@ -1,6 +1,6 @@
 ## Hi there, I'm Bren Broussard 👋
 
-Welcome to my GitHub profile! I'm a tech enthusiast, self-taught programmer, and freelance software developer. I love working on DIY electronics, coding projects, and sharing my knowledge through my YouTube channel.
+Welcome to my GitHub profile! I'm a tech enthusiast and freelance software developer. I love working on DIY electronics, coding projects, and sharing my knowledge through my YouTube channel.
 
 ## 🛠 Skills & Tools
 - <div align="center">
@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a tech enthusiast, self-taught programmer, and
 
 ## 🚀 Projects
 Here are some of the projects I'm working on:
-- **[Pocket HVAC Technician](https://github.com/bren-broussard/pocket-hvac-technician)**: An app to lookup HVAC equipment model numbers and compare operating parameters.
+- **[Pocket HVAC Technician](https://github.com/brenj23/The-Pocket-HVAC-Technician)**: An app to lookup HVAC equipment model numbers and compare operating parameters.
 - **[Portfolio Webpage](https://github.com/brenj23/Portfolio-Webpage)**: A portolio webpage of some of my projects.
 - **DIY Electronic Kits**: Developing and selling kits for various projects like fitness trackers, weather stations, and air quality monitors.
 
